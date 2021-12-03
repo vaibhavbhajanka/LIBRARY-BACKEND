@@ -1,0 +1,8 @@
+POST http://localhost:3000/add-new-book
+Content-Type: application/json
+
+{
+    "bookName":"Guiness World Records, Edition 2020",
+    "issuerName":"Shivam Mittal",
+    "date":"10/03/2020"
+}
